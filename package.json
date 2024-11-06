@@ -1,0 +1,19 @@
+{
+  "name": "zapis-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@grammyjs/hydrate": "^1.4.1",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.31.0",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.7"
+  }
+}
